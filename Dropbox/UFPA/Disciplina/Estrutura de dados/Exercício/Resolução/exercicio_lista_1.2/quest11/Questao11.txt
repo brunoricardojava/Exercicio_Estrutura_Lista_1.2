@@ -1,0 +1,4 @@
+
+R: A classe "Registro De Eleitor", está nomeada de forma erronea, não podendo haver espaço na declaração de seu nome e o seu atributo "títuloDeEleitor" está declarado de forma erronea contendo um caractere não permitido pela sintase ddo Java "í".
+
+
